@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
 
-print "����͂ɂقւ�\n";
+print "いろはにほへと\n";
 exit;
 
